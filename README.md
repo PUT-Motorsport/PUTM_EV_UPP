@@ -1,6 +1,6 @@
-# Project Template
+# UPP
 
-A default project template.
+Universal use measuring boards (Uniwersalne Płytki Pomiarowe)
 
 ## Code Formatting
 
