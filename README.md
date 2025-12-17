@@ -1,6 +1,7 @@
 # UPP
 
-Universal use measuring boards (Uniwersalne Płytki Pomiarowe)
+Universal use measuring boards,
+ADC converter with multiplexed input.
 
 ## Code Formatting
 
